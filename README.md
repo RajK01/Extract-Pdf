@@ -18,4 +18,5 @@ a graphical user interface with Tkinter, manipulate PDF files with PyPDF2 and pr
 
 
 #### Author: Rajeev Kumar
+#### Dependencies: PyPdf2
 
