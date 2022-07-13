@@ -15,7 +15,7 @@ The full version also handles image extraction and exceptions.
 
 ![screenshot](https://user-images.githubusercontent.com/32107652/100146136-497a2300-2e4e-11eb-999c-36c03ab0ecfb.jpg)
 
-
+#### Credit: MariaSha
 
 
 #### Author: Rajeev Kumar
